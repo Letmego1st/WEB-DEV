@@ -2,7 +2,10 @@
     margin: 0;
     padding: 0;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 169befd8a072c488d21c63308a13da20a325c0fc
 header,
 footer {
     width: 100%;
@@ -10,12 +13,18 @@ footer {
     background-color: blue;
     color: white;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 169befd8a072c488d21c63308a13da20a325c0fc
 h1,
 h2 {
     text-align: center;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 169befd8a072c488d21c63308a13da20a325c0fc
 img {
     display: block;
     height: 50px;
@@ -23,17 +32,26 @@ img {
     margin-left: auto;
     margin-right: auto;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 169befd8a072c488d21c63308a13da20a325c0fc
 ul {
     padding-left: 40px;
     font-size: 20px;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 169befd8a072c488d21c63308a13da20a325c0fc
 p {
     text-align: center;
     font-size: 30px;
   }
+<<<<<<< HEAD
   
+=======
+>>>>>>> 169befd8a072c488d21c63308a13da20a325c0fc
   .card {
     width: 80%;
     margin: 40px auto;
